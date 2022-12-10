@@ -1,6 +1,6 @@
 # ⚠Attention⚠
 試験的な内容のリポジトリです。<br>
-いくつかのIssueや発生したエラーに暫定対応しています。<br>
+いくつかのIssueや発生したエラーに暫定対応しています（2022年12月10日時点）<br>
 * https://github.com/tinyvision/DAMO-YOLO/issues/24<br>発生条件：詳細不明<Br>→おそらくデータセット数が少ない時にMosaicのデータ拡張でエラーが発生<br>暫定対応：damo/dataset/datasets/mosaic_wrapper.py にエラー処置を追加
 * https://github.com/tinyvision/DAMO-YOLO/issues/39<br>発生条件：詳細不明<Br>→ファインチューニング時にデータ拡張を有効にするとLossが0になり学習が進まない？<br>暫定対応：self.train.no_aug_epochs を総エポック数と同一値に設定
 * ファインチューニング時にクラス数を変更するとモデル構築に失敗する<br>暫定対応：ファインチューニング元のクラス数から変更しないように、<br>VOC→COCO変換時に"categories"を80クラスになるよう不要なクラスで埋める
