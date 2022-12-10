@@ -48,6 +48,4 @@ python demo.py --model=damoyolo_tinynasL20_T.onnx --movie=fish.mp4
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-YOLOX-Colaboratory-Training-Sample is under [Apache-2.0 License](LICENSE).
-
-
+DAMO-YOLO-Colaboratory-Training-Sample is under [Apache-2.0 License](LICENSE).
