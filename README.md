@@ -1,5 +1,5 @@
 # DAMO-YOLO-Colaboratory-Training-Sample
-<img src="https://user-images.githubusercontent.com/37477845/206830834-0fedef1b-b465-4ac6-8dfb-2adb10051e51.gif" width="40%"><br>
+https://user-images.githubusercontent.com/37477845/208217703-756cf5e8-df30-48ad-a164-798cc3b7539c.mp4
 
 [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO)をGoogle Colaboratory上で訓練しONNX形式のファイルをエクスポートするサンプルです。<br>
 以下の内容を含みます。<br>
