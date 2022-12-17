@@ -26,7 +26,6 @@ After the installation, the session causes a crash, but the installation was suc
 1. Pascal VOC形式 を MS COCO形式へ変換(Convert Pascal VOC format to MS COCO format)
 1. 学習データディレクトリ準備(Training data directory preparation)
 1. DAMO-YOLO学習用コンフィグファイル生成
-1. 暫定修正
 1. トレーニング
 1. ONNXエクスポート
 1. ダウンロード
